@@ -42,3 +42,5 @@ def render_bar_chart(values, width=40):
 # Startet das Diagramm beim direkten Ausführen der Datei
 if __name__ == "__main__":
     render_bar_chart(values)
+
+    #Rich Console
